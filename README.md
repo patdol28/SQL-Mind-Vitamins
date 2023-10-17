@@ -1,2 +1,2 @@
 # SQL-Mind-Vitamins
-Practice SQL Problems
+Practice SQL Problems for the 2023-2024 Cohort
