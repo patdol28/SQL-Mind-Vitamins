@@ -3,4 +3,12 @@
 
 This is where I will collect various queries (aka "Mind Vitamins") we use in class. Each topic area will be stored in .ipynb format.  
   
-[Subqueries](Subqueries.ipynb)
+[Subqueries](Subqueries.ipynb)  
+[Variables](Variables.ipynb)  
+[CTEs](CTEs.ipynb)  
+[CTEs with Case](CTEwithCASE.ipynb)  
+[UNION and UNION with CTE](UNIONwithCTE.ipynb)  
+
+
+
+
