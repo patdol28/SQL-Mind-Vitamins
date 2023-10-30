@@ -10,4 +10,6 @@ This is where I will collect various queries (aka *Mind Vitamins*) we use in cla
 [UNION and UNION with CTE](UNIONwithCTE.ipynb)  
 [SQL Window Functions](WindowFunctions.ipynb)  
 [Aggregate Window Function Example](AggregateWindowFunction.ipynb)  
+[Tech Check Sample Queries](TechCheckSample.ipynb)  
+
 
